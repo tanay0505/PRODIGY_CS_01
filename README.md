@@ -6,20 +6,20 @@ This repository contains a Python script that implements the Caesar Cipher algor
 
 Features:-
 - Encryption: Shift each letter in the message by a specified number of positions.
-*Decryption: Reverse the shift to restore the original message.
-*Handles both uppercase and lowercase letters.
-*Non-alphabetic characters remain unchanged.
+- Decryption: Reverse the shift to restore the original message.
+- Handles both uppercase and lowercase letters.
+- Non-alphabetic characters remain unchanged.
 
 <br>
 
 Usage:-
-Run the script.
-Choose to encrypt or decrypt.
-Enter the message.
-Enter the shift value.
-View the encrypted or decrypted message.
+- Run the script.
+- Choose to encrypt or decrypt.
+- Enter the message.
+- Enter the shift value.
+- View the encrypted or decrypted message.
 
-
+<br>
 
 Caesar Cipher (Part 1) --> https://www.youtube.com/watch?v=JtbKh_12ctg 
 <br>
